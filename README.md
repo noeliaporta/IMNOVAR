@@ -14,7 +14,15 @@ supera un umbral.
 
 ## 📌 Permalinks a la integración con WDK
 
-> 
+>https://github.com/noeliaporta/IMNOVAR/blob/62e8c3e356e3ebe7bb628219448c8f0670ffacde/src/com/miEmpresa/service/WdkCliService.java#L104
+>https://github.com/noeliaporta/IMNOVAR/blob/62e8c3e356e3ebe7bb628219448c8f0670ffacde/src/com/miEmpresa/service/WdkCliService.java#L105
+> https://github.com/noeliaporta/IMNOVAR/blob/62e8c3e356e3ebe7bb628219448c8f0670ffacde/src/com/miEmpresa/service/WdkCliService.java#L107
+> https://github.com/noeliaporta/IMNOVAR/blob/62e8c3e356e3ebe7bb628219448c8f0670ffacde/src/com/miEmpresa/service/WdkCliService.java#L108
+> https://github.com/noeliaporta/IMNOVAR/blob/62e8c3e356e3ebe7bb628219448c8f0670ffacde/src/com/miEmpresa/service/WdkCliService.java#L112
+> https://github.com/noeliaporta/IMNOVAR/blob/62e8c3e356e3ebe7bb628219448c8f0670ffacde/src/com/miEmpresa/service/WdkCliService.java#L114
+> https://github.com/noeliaporta/IMNOVAR/blob/62e8c3e356e3ebe7bb628219448c8f0670ffacde/src/com/miEmpresa/service/WdkCliService.java#L115
+> https://github.com/noeliaporta/IMNOVAR/blob/62e8c3e356e3ebe7bb628219448c8f0670ffacde/src/com/miEmpresa/service/WdkCliService.java#L117
+> https://github.com/noeliaporta/IMNOVAR/blob/62e8c3e356e3ebe7bb628219448c8f0670ffacde/src/com/miEmpresa/service/WdkCliService.java#L129
 
 * **Ejecución de comandos WDK CLI (`unlock` / `send` / `lock` vía `ProcessBuilder`):**
   `WdkCliService.java` — métodos `ejecutarComandoSistema` y `crearComandoBase`
@@ -166,7 +174,7 @@ Para probar sin gastar fondos de testnet, cambiar ese flag a `true`.
 
 ## 🎥 Demo
 
-`<link al video de demo>`
+[Preview](assets/video-demo-proyecto-hackathon.mp4)
 
 ---
 

@@ -25,7 +25,7 @@ public class Main {
         AuditorAgente a1 = new AuditorAgente(1500.0, 5000.0);
         ControlTransaccionesAgente a2 = new ControlTransaccionesAgente();
         ReciboAgente a3 = new ReciboAgente();
-        WdkCliService wdkService = new WdkCliService(false);
+        WdkCliService wdkService = new WdkCliService(true);
 
         SupervisorAgente supervisor = new SupervisorAgente(a1, a2, a3, wdkService);
         supervisor.procesarNominaColaborativa(nomina);
