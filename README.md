@@ -174,7 +174,8 @@ Para probar sin gastar fondos de testnet, cambiar ese flag a `true`.
 
 ## 🎥 Demo
 
-<video src="assets/video-demo-proyecto-hackathon.mp4" controls></video>
+[![assets/video-demo-proyecto-hackathon.mp4]](https://youtu.be/ymy_YbK_TuU)
+
 ---
 
 ## 🚧 Alcance actual y próximos pasos
